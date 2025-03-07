@@ -50,15 +50,17 @@ function App() {
 
   // save data start
 
+
   
  const handleDelete=id=>{
-   const removie=save.filter((rem)=>rem.id !==id)
-   setSave(removie)
-   Delete()
+ const remove=save.filter(idx=>idx.id !==id)
+ setSave(remove)
+
   
   
 
  }
+ 
  
   const handleSave=(playerInfo)=>{
   

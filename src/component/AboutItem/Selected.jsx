@@ -2,7 +2,9 @@ import React from 'react';
 import { MdDelete } from "react-icons/md";
 
 const Selected = ({item,handleDelete}) => {
-    const {id,name,image,role,}=item
+    const {id,name,image,role}=item
+    console.log("lonnjkfjsek",id);
+   
     return (
         <div>
             <div className='mt-8 '>
@@ -15,7 +17,7 @@ const Selected = ({item,handleDelete}) => {
                     </div>
                 </div>
 
-                <button onClick={()=>handleDelete(id)} className=' btn font-bold text-3xl text-red-500'><MdDelete></MdDelete></button>
+                <button  onClick={()=>handleDelete(item.id)} className=' btn font-bold text-3xl text-red-500'><MdDelete onClick={()=>handleDelete(id)}></MdDelete></button>
              </div>
              
         </div>
