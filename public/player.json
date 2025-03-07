@@ -1,0 +1,134 @@
+ [
+      {
+        "playerId": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://cdn.britannica.com/48/252748-050-C514EFDB/Virat-Kohli-India-celebrates-50th-century-Cricket-November-15-2023.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Medium",
+        "Price":1022 
+      },
+      {
+        "playerId": 1002,
+        "name": "Steve Smith",
+        "country": "Australia",
+        "image": "https://i.guim.co.uk/img/media/ebb176c9941322bdb94899a266983e2d573f96f2/0_163_3867_2320/master/3867.jpg?width=465&dpr=1&s=none&crop=none",
+        "role": "Batsman",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Leg Spin",
+        "Price": 10000
+      },
+      {
+        "playerId": 303,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2024-02/GettyImages-2014197776%281%29.jpg?h=fecbceb7&itok=NbQrmXnM",
+        "role": "Batsman",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Off Spin",
+        "Price": 100000 
+      },
+      {
+        "playerId": 20004,
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "image": "https://live-production.wcms.abc-cdn.net.au/b4bea9a2e50a5c9b6c1dcf48dc62048a?impolicy=wcms_crop_resize&cropH=1234&cropW=2193&xPos=0&yPos=55&width=862&height=485",
+        "role": "Bowler",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Fast",
+        "Price": 50000
+      },
+      {
+        "playerId":5005,
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp3o58UdwGrBJ995sQbdPjHXVLA0ViTYgu3bq_rXkDaOOvXEnFcCnbp9Jx9k74h5Ea6LI&usqp=CAU",
+        "role": "All-rounder",
+        "battingType": "Left-hand Bat",
+        "bowlingType": "Right-arm Fast Medium",
+        "Price": 20000 
+      },
+      {
+        "playerId": 6,
+        "name": "David Warner",
+        "country": "Australia",
+        "image": "https://sportscafe.in/img/es3-gn/articles/cricket/International/David_Warner_2nd_Test_Pakistan_Getty.jpg",
+        "role": "Batsman",
+        "battingType": "Left-hand Bat",
+        "bowlingType": "Right-arm Leg Spin",
+        "Price": 60000
+      },
+      {
+        "playerId": 7,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/images/2024/06/26/rashid_khan_vs_bd.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Leg Spin",
+        "Price": 70000
+      },
+      {
+        "playerId": 8,
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "image": "https://www.hindustantimes.com/ht-img/img/2024/09/10/1600x900/South-Africa-s-Quinton-de-Kock---REUTERS-_1725984692169_1725984909042.jpg",
+        "role": "Wicketkeeper Batsman",
+        "battingType": "Left-hand Bat",
+        "bowlingType": "N/A",
+        "Price": 90000
+      },
+      {
+        "playerId": 9,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "image": "https://wallpapersok.com/images/high/babar-azam-batting-form-cmdbrbm0kze7rb5m.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Off Spin",
+        "Price": 60000
+      },
+      {
+        "playerId": 10,
+        "name": "Trent Boult",
+        "country": "New Zealand",
+        "image": "https://i0.wp.com/battingwithbimal.com/wp-content/uploads/2019/07/292036.jpg?ssl=1",
+        "role": "Bowler",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Left-arm Fast",
+        "Price":40000
+      },
+      {
+        "playerId": 11,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "image": "https://images.supersport.com/media/rifj1yrv/shakib-al-hasan-1200g.jpg?width=1920&quality=90&format=webp",
+        "role": "All-rounder",
+        "battingType": "Left-hand Bat",
+        "bowlingType": "Left-arm Orthodox",
+        "Price": 10000
+      },
+      {
+        "playerId": 12,
+        "name": "Andre Russell",
+        "country": "West Indies",
+        "image": "https://i.cdn.newsbytesapp.com/images/l55620250202174029.jpeg",
+        "role": "All-rounder",
+        "battingType": "Right-hand Bat",
+        "bowlingType": "Right-arm Fast",
+        "Price": 20000
+      },
+      {
+        "playerId": 13,
+        "name": "Moeen Ali",
+        "country": "England",
+        "image": "https://browvopetshop.com/wp-content/uploads/2024/04/Moeen-Ali-Biography.jpg",
+        "role": "All-rounder",
+        "battingType": "Left-hand Bat",
+        "bowlingType": "Right-arm Off Spin",
+        "Price": 60200
+      }
+    ]
+  
+  
